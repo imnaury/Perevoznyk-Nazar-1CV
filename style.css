@@ -4,7 +4,7 @@ body {
     padding: 0;
     background-color: #cbccd7;
 }
-.container {
+container {
     width: 70%;
     margin: 0 auto;
     padding: 20px;
@@ -12,12 +12,12 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.header {
+header {
     text-align: center;
     margin-bottom: 20px;
 }
 
-.profile-img {
+profile-img {
     width: 150px;
     height: 200px;
     border-radius: 50%;
