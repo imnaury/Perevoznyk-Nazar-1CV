@@ -44,16 +44,16 @@ p {
     margin-bottom: 15px;
 }
 
-.experience .job {
+experience job {
     margin-bottom: 30px;
 }
 
-.contact {
+contact {
     text-align: center;
     margin-top: 20px;
 }
 
-.btn {
+btn {
     display: inline-block;
     margin: 5px;
     padding: 20px 450px;
@@ -66,12 +66,12 @@ p {
     padding-left: 40px;
 }
 
-.icon1{
+icon1{
     position: relative;
     cursor: pointer;
 }
 
-.icon1 {
+icon1 {
         content: "";
         font-weight: 900;
         position: absolute;
@@ -80,17 +80,17 @@ p {
         transform: translateY(-50%);
     }
    
-.btn.email::before {
+btn.email::before {
     content: "";
     width: 200px;
 }
 
-.btn.instagram::before {
+btn.instagram::before {
     content: "";
     width: 200px;
 }
 
-.btn:hover {
+btn:hover {
     background-color: black;
     color: white;
 }
